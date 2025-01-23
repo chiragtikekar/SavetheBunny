@@ -11,3 +11,17 @@
   <li><strong>High Score System:</strong> The game tracks and displays the player's highest score achieved in any session.</li>
   <li><strong>Game Over:</strong> The game ends when all lives are lost, and the final score is displayed.</li>
 </ul>
+
+## 📸 Screenshots  
+
+### Start Page  
+![Start Page](images/index.png) 
+
+### Game Play 
+![Life 3](images/1.png) 
+![Life 2](images/2.png) 
+![Life 1](images/3.png) 
+
+
+### End Page
+![Out](images/4.png) 
