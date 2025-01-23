@@ -15,13 +15,12 @@
 ## 📸 Screenshots  
 
 ### Start Page  
-![Start Page](images/index.png) 
+<img src="images/index.png" alt="Start Page" width="120">  
+
 
 ### Game Play 
-![Life 3](images/1.png) 
-![Life 2](images/2.png) 
-![Life 1](images/3.png) 
+<img src="images/1.png" alt="life 3" width="120"> <img src="images/2.png" alt="life 2" width="120"> <img src="images/3.png" alt="life 1" width="120">  
 
 
 ### End Page
-![Out](images/4.png) 
+<img src="images/4.png" alt="End Page" width="120">  
